@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Compose</string>
+
+    <string name="title">A day wandering through the sand hills in Shark Fin Cove, and a few of the sights I saw</string>
+    <string name="subtitle">Davenport, California</string>
+    <string name="body">December 2018</string>
+</resources>
